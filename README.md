@@ -11,7 +11,7 @@ Développeur full-stack, je conçois des applications web et mobiles ainsi que d
 
 ## 🎯 Objectif
 
-Intégrer une équipe technique en tant que développeur full-stack afin de progresser sur des projets concrets et monter en compétence.
+Intégrer une équipe technique en tant que développeur full-stack afin de mettre mes compétences au service de projets concrets et continuer à monter en compétence.
 
 ---
 

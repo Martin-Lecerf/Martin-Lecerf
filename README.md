@@ -70,6 +70,8 @@ Projet réalisé en équipe (3 développeurs) avec développement collaboratif s
 
 🔗 Code : https://github.com/Martin-Lecerf/pblv-spring-boot-api
 
+💡 Ce projet est une évolution d’une première version développée avec Symfony, également disponible ici :  
+🔗 https://github.com/Martin-Lecerf/pblv-symfony-api
 
 ### 📱 Dolismart (partie Projets) - Application mobile connectée à l’ERP/CRM Dolibarr  – React Native
 

@@ -87,4 +87,4 @@ Projet réalisé en équipe (3 développeurs) avec développement collaboratif s
 
 ## 📫 Me contacter
 
-- Email : martin.lecerf@hotmail.fr
+- Email : martin.lecerf.dev@gmail.com
